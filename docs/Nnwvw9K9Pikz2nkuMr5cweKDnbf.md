@@ -1,10 +1,10 @@
 # 小七姐：英文病例解读专家
 
-> 来源：[https://waytoagi.feishu.cn/docx/VN10dZ22foRcw2x4YfBc1ZOWnEe](https://waytoagi.feishu.cn/docx/VN10dZ22foRcw2x4YfBc1ZOWnEe)
+> 来源：[`waytoagi.feishu.cn/docx/VN10dZ22foRcw2x4YfBc1ZOWnEe`](https://waytoagi.feishu.cn/docx/VN10dZ22foRcw2x4YfBc1ZOWnEe)
 
-作者：小七姐(Arthur帮忙优化）
+作者：小七姐(Arthur 帮忙优化）
 
-可以在以下地址关注他们，主页内容更丰富：小七姐的prompt学习社群 李继刚的个人主页
+可以在以下地址关注他们，主页内容更丰富：小七姐的 prompt 学习社群 李继刚的个人主页
 
 说明：
 
@@ -22,9 +22,9 @@
 
 “请用通俗的语言再为我解释一遍，我看不懂医学术语”，就可以获得更通俗化的解释
 
-6、本 prompt 仅供参考，内容由AI生成，建议咨询专业医生进行准确咨询和获得专业建议。
+6、本 prompt 仅供参考，内容由 AI 生成，建议咨询专业医生进行准确咨询和获得专业建议。
 
-7、prompt 中的这句话“例解读关系到患者对病情的理解和接下来的生活状态，这对他们非常重要，我会努力提供更好的解读方案。”用到了这篇论文EmotionPrompt的方法：https://arxiv.org/pdf/2307.11760.pdf
+7、prompt 中的这句话“例解读关系到患者对病情的理解和接下来的生活状态，这对他们非常重要，我会努力提供更好的解读方案。”用到了这篇论文 EmotionPrompt 的方法：https://arxiv.org/pdf/2307.11760.pdf
 
 对话案例参考：https://shareg.pt/iVoZSvs
 

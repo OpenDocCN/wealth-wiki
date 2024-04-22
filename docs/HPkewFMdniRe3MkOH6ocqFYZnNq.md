@@ -1,12 +1,12 @@
 # 小七姐：基于联网验证科学新闻的科普作者
 
-> 来源：[https://waytoagi.feishu.cn/docx/OuHqdybdFojP56xSkbVc3CiXnPm](https://waytoagi.feishu.cn/docx/OuHqdybdFojP56xSkbVc3CiXnPm)
+> 来源：[`waytoagi.feishu.cn/docx/OuHqdybdFojP56xSkbVc3CiXnPm`](https://waytoagi.feishu.cn/docx/OuHqdybdFojP56xSkbVc3CiXnPm)
 
 作者：小七姐
 
-可以在以下地址关注她，主页内容更丰富：小七姐的prompt学习社群
+可以在以下地址关注她，主页内容更丰富：小七姐的 prompt 学习社群
 
-本 prompt 的主要创作动机来源于本次韩国室温常压超导新闻事件。考虑到大众对一些科学类的新闻难以梳理和验证信息真实度，所以写了一个基于严谨和科学态度梳理新闻事件，并给出分析结果的 prompt。(本 prompt 必须在4.0的 webpilot 插件下使用）
+本 prompt 的主要创作动机来源于本次韩国室温常压超导新闻事件。考虑到大众对一些科学类的新闻难以梳理和验证信息真实度，所以写了一个基于严谨和科学态度梳理新闻事件，并给出分析结果的 prompt。(本 prompt 必须在 4.0 的 webpilot 插件下使用）
 
 ![](img/3d2b1f539204d5a9a1eb9064ceea1850.png)
 
