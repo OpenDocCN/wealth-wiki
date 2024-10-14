@@ -132,3 +132,6 @@
     +   [用Opencv做的一个针对“别踩白块”游戏的自动点击简单工具 - 代码先锋网](docs/%E7%94%A8Opencv%E5%81%9A%E7%9A%84%E4%B8%80%E4%B8%AA%E9%92%88%E5%AF%B9-%E5%88%AB%E8%B8%A9%E7%99%BD%E5%9D%97-%E6%B8%B8%E6%88%8F%E7%9A%84%E8%87%AA%E5%8A%A8%E7%82%B9%E5%87%BB%E7%AE%80%E5%8D%95%E5%B7%A5%E5%85%B7---%E4%BB%A3%E7%A0%81%E5%85%88%E9%94%8B%E7%BD%91.md)
     +   [用opencv玩别踩白块 - CodeAntenna](docs/%E7%94%A8opencv%E7%8E%A9%E5%88%AB%E8%B8%A9%E7%99%BD%E5%9D%97---CodeAntenna.md)
     +   [用Python做一个连连看游戏辅助脚本，完整编程思路分享_165845132的博客-CSDN博客_python 连连看](docs/%E7%94%A8Python%E5%81%9A%E4%B8%80%E4%B8%AA%E8%BF%9E%E8%BF%9E%E7%9C%8B%E6%B8%B8%E6%88%8F%E8%BE%85%E5%8A%A9%E8%84%9A%E6%9C%AC-%E5%AE%8C%E6%95%B4%E7%BC%96%E7%A8%8B%E6%80%9D%E8%B7%AF%E5%88%86%E4%BA%AB_165845132%E7%9A%84%E5%8D%9A%E5%AE%A2-CSDN%E5%8D%9A%E5%AE%A2_python-%E8%BF%9E%E8%BF%9E%E7%9C%8B.md)
++   商业
+    +   [【每周一本书】37 重来1,2 - 简书](docs/-%E6%AF%8F%E5%91%A8%E4%B8%80%E6%9C%AC%E4%B9%A6-37-%E9%87%8D%E6%9D%A51-2---%E7%AE%80%E4%B9%A6.md)
+    +   [Getting Real by 37signals(转 37signals)](docs/Getting-Real-by-37signals-%E8%BD%AC-37signals-.md)
