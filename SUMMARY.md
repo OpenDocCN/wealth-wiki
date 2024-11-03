@@ -8,6 +8,7 @@
     +   [[试看版]1 万 4 千字《0-1 ai 绘画变现手册》](docs/-%E8%AF%95%E7%9C%8B%E7%89%88-1-%E4%B8%87-4-%E5%8D%83%E5%AD%97-0-1-ai-%E7%BB%98%E7%94%BB%E5%8F%98%E7%8E%B0%E6%89%8B%E5%86%8C-.md)
     +   [1 个案例搞定 gpt 底层角色定义逻辑](docs/1-%E4%B8%AA%E6%A1%88%E4%BE%8B%E6%90%9E%E5%AE%9A-gpt-%E5%BA%95%E5%B1%82%E8%A7%92%E8%89%B2%E5%AE%9A%E4%B9%89%E9%80%BB%E8%BE%91.md)
     +   [1000 个野路子信息差 202404](docs/1000-%E4%B8%AA%E9%87%8E%E8%B7%AF%E5%AD%90%E4%BF%A1%E6%81%AF%E5%B7%AE-202404.md)
+    +   [2060穿越者KFK在豆瓣回答网友255个问题汇总（2024回顾） - P1 - 觉醒网 - BV1Wr421M71e](docs/2060%E7%A9%BF%E8%B6%8A%E8%80%85KFK%E5%9C%A8%E8%B1%86%E7%93%A3%E5%9B%9E%E7%AD%94%E7%BD%91%E5%8F%8B255%E4%B8%AA%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB-2024%E5%9B%9E%E9%A1%BE----P1---%E8%A7%89%E9%86%92%E7%BD%91---BV1Wr421M71e.md)
     +   [ChatGPT 撸问一问教程](docs/ChatGPT-%E6%92%B8%E9%97%AE%E4%B8%80%E9%97%AE%E6%95%99%E7%A8%8B.md)
     +   [DIN：全程白嫖 - 拥有一个 AI 大模型的微信助手](docs/DIN-%E5%85%A8%E7%A8%8B%E7%99%BD%E5%AB%96---%E6%8B%A5%E6%9C%89%E4%B8%80%E4%B8%AA-AI-%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%BE%AE%E4%BF%A1%E5%8A%A9%E6%89%8B.md)
     +   [Midjourney 人物一致性已上线](docs/Midjourney-%E4%BA%BA%E7%89%A9%E4%B8%80%E8%87%B4%E6%80%A7%E5%B7%B2%E4%B8%8A%E7%BA%BF.md)
